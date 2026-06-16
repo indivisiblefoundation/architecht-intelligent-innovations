@@ -1,0 +1,9 @@
+Tomas Nelson | Former US Marine | 469-912-5150
+Zero-Combustion AI Data Center · Pilot Brief
+Magnetic-Assisted Power + Waterless Cooling
+Problem: 448 TWh global, 208M tons CO2, 1.2T gal water. 945 TWh projected by 2030.
+Solution: PM renewables + flywheels, direct-to-chip two-phase dielectric, PUE 1.05-1.10, WUE ~0.
+Pilot: 2 racks, $250k, 6 months, target >=30% cooling reduction.
+Texas Summer Heat Load modeled in simulation.py.
+
+[PDF page 1 image attached. Read this image directly to extract content.]

@@ -1,5 +1,3 @@
-[![CI](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml)
-
 # Zero-Combustion AI Data Center — Pilot Brief
 
 **Author:** Tomas Nelson | Former US Marine | 469-912-5150 | Carrollton, TX
